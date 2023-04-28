@@ -1,0 +1,20 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.input {
+    background-image: url(./assets/search.svg);
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: .75rem .6rem;
+}
