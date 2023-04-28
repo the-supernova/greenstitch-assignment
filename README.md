@@ -1,4 +1,4 @@
-#Assignment for GreenStitch
+# Assignment for GreenStitch
 
 ## Instructions for running the code
 
